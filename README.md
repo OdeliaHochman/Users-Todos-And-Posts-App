@@ -11,10 +11,18 @@ It manages the "Database" on the Client side based and initialized with Mock Dat
 </ul>
 
 
+<img src="https://user-images.githubusercontent.com/45036697/181236795-b496f441-0d85-43f3-b03d-4540071d0c69.png" width="60%" height="70%"> 
+
+
 # Run
 #### `npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+
+
+
 
 
