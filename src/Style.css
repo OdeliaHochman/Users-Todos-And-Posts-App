@@ -1,0 +1,141 @@
+
+.divLeftSide
+{
+    width: 50%;
+    float: left;
+    
+}
+
+.divRightSide
+{
+    width: 50%;
+    float: right;
+}
+
+
+.user
+{
+   border-style: solid;
+   border-radius: 10px;
+    box-sizing: border-box;
+    padding-bottom:25px;
+    padding-right: 5px;
+    padding-left: 5px; 
+    padding-top: 5px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    
+}
+
+.divSearch
+{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: black;
+    box-sizing: border-box;
+    padding-bottom:20px;
+    padding-right: 5px;
+    padding-left: 5px; 
+    padding-top: 5px;
+    margin-right: 8px;
+    margin-left: 20px;  
+    width: 80%;
+    
+}
+
+.btn-user
+{
+    margin-left: 5px;
+    background-color: bisque;
+    float: right;
+    border-radius: 4px;
+    cursor: pointer;  
+}
+
+.btn-user:hover {background-color: orange}
+
+.btn-user:active {
+  transform: translateY(4px);
+}
+
+.input-text
+{
+    margin-left: 5px;
+}
+
+.divOtherDataUser
+{
+    border-style: solid;
+     border-color: grey;
+     box-sizing: border-box; 
+     margin-bottom: 5px;
+     margin-top: 5px;
+     background-color: lightgray;
+     width: 90px;
+     position: relative;
+   
+}
+
+.divOtherDataSquare
+{   
+    border-style: solid;
+    border-radius: 10px;
+     border-color: grey;
+     box-sizing: border-box;
+     padding-bottom:5px;
+     padding-right: 5px;
+     padding-left: 5px; 
+     padding-top: 5px;
+     margin-top: 5px;
+     background-color: #F0F0F0;
+}
+
+
+.divAddNewItem
+{
+    border-style: solid;
+    border-radius: 10px;
+     border-color: grey;
+     box-sizing: border-box;
+     padding-left: 30px;
+     padding-right: 30px; 
+     padding-bottom: 50px; 
+     width: 70%;
+     
+}
+
+.userDetails.scroller
+{
+    border-style: solid;
+     border-color: black;
+     box-sizing: border-box;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-bottom: 10px;
+     box-sizing: border-box;
+     width: 70%;
+
+}
+
+.scroller
+{
+    width: 300px;
+    height: 500px;
+    overflow-y: scroll; 
+    scrollbar-color: rebeccapurple green;
+    scrollbar-width: thin;
+}
+
+.item
+{
+    border-style: solid;
+    border-radius: 10px;
+     border-color: purple;
+     box-sizing: border-box;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-bottom: 25px;
+     margin-bottom: 10px;
+  
+}
+
