@@ -1,5 +1,5 @@
 # Users Todos And Posts App
-Fullstack Course by Yaniv Arad - React_Mid project.
+Fullstack Course by Yaniv Arad - React Mid project.
 
 React web app that manages users todos and posts.<br/>
 It manages the "Database" on the Client side based and initialized with Mock Data from the following APIs:
